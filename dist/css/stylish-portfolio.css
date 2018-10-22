@@ -95,13 +95,13 @@ h6 {
       from(rgba(255, 255, 255, 0.1)),
       to(rgba(255, 255, 255, 0.1))
     ),
-    url("/img/head.jpeg");
+    url("img/head.jpeg");
   background: linear-gradient(
       90deg,
       rgba(255, 255, 255, 0.1) 0%,
       rgba(255, 255, 255, 0.1) 100%
     ),
-    url("/img/head.jpeg");
+    url("img/head.jpeg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
